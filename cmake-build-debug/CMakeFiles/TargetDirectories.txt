@@ -1,0 +1,3 @@
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/Final-C-PROJECT-main/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/Final-C-PROJECT-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/Final-C-PROJECT-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

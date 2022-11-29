@@ -1,0 +1,6 @@
+1. AA from ACC to LHR, stops = 0
+2. AA from LHR to DEN, stops = 0
+3. AC from DEN to YWG, stops = 0
+Total flights: 3
+Total additional stops: 0
+Optimality criteria: flights
